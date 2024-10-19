@@ -1,3 +1,3 @@
 ### Dependency 
-npm install
+npm install '\n'
 sudo apt-get install ghostscript
